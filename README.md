@@ -12,6 +12,7 @@ A heart disease prediction machine learning project is a machine learning initia
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [Usage](#usage)
+- [Live Preview](#live-preview)
 
 
 ## Features
@@ -75,6 +76,12 @@ This code is part of a machine learning web app built with Streamlit for predict
 **Access the Web Application**:
    - After running the above command, Streamlit will launch a server at `http://localhost:8501`.
    - Open the browser and access this URL to interact with the heart disease prediction app.
+
+
+## Live Preview
+
+**Live Application**:
+   - Access the Live Server : [Heart Disease Prediction](https://heart-disease-prediction-system-ml.streamlit.app/)
 
 
 The app provides input fields for various health metrics like age, cholesterol, blood pressure, etc., and predicts the likelihood of heart disease based on these inputs.
